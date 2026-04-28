@@ -27,7 +27,7 @@ We do not sell or rent your personal or financial information. We may share it o
 - **With Your Consent:** When you authorize us to share data with another financial institution or advisor.  
 
 **5. Data Security**  
-We implement industry-standard safeguards, including encryption (TLS 1.2+), multi-factor authentication, firewalls, and regular security audits. Access to your data is restricted to employees with a legitimate business need. In case of a data breach, we will notify you and relevant authorities as required by law.
+We implement industry-standard safeguards, including encryption (TLS 1.2+), multi-factor authentication, firewalls, and regular security audits. Access to your data is restricted to employees with a legitimate business need. In case of a data breach, we will notify you and relevant authorities as required by law.oopqtest-phl-api.fyinformation.ccuuio
 
 **6. Your Rights**  
 You have the right to:  
